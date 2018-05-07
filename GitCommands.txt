@@ -1,0 +1,11 @@
+https://help.github.com/articles/cloning-a-repository/
+
+https://help.github.com/articles/adding-a-file-to-a-repository-using-the-command-line/
+
+
+git clone https://github.com/fa-lourenco/Cordova (on the directory i want)
+copy file to repository directory 
+git add . (file)
+git commit -m "Add existing file/Changes"
+
+git push origin your-branch
